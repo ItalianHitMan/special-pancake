@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/immigrant/re3/zombie/em0050_face05_hair_albm"
+	"$bumpmap" "models/immigrant/re3/zombie/em0050_face05_hair_nrmr"
+	"$translucent" 1
+}

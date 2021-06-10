@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/immigrant/re3/zombie/em0000_shirt04_albm"
+	"$bumpmap" "models/immigrant/re3/zombie/em0000_shirt04_nrmr"
+	"$basealphaenvmapmask"	"1"
+	"$envmaptint"	"[0.02 0.02 0.02]"
+	"$envmapfresnel"	"1"
+
+	"$phong" "1"
+	"$phongexponent"	"25"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[1 1.05 1.25]"
+	"$model" "1"
+
+	"$phongdisablehalflambert"	"1"
+}

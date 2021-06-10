@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/immigrant/re3/zombie/em0000_face06_albm"
+	"$bumpmap" "models/immigrant/re3/zombie/em0000_face06_nrmr"
+	"$phong" "1"
+	"$phongboost" "0.3"
+	"$phongexponent" "50"
+	"$phongfresnelranges" "[.3 .82 31]"
+	"$model" "1"
+	"$nocull" "1"
+
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+}
